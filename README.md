@@ -1,1 +1,3 @@
-# bootcamp1
+ - Olá, eu sou o Arthur Elias
+ - Atuamente estou estudando Engenharia de software e linguagem de programação Python
+ - Meu contato: arthur16fs@gmail.com
